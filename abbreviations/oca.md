@@ -4,7 +4,9 @@
 
 | **Abbreviation**|    **Meaning**    	        |
 |:--------------  |:---------------------------:|
+| Beuf     	  | Beauford        |
 | BR		  | Booze Runs			|
+| Deusy     	  | Duesenberg        |
 | DEF     	  | Defender(Booze Runs)        |
 | DR     	  | Driver                      |
 | EE 		  | Explosives Expert           |
