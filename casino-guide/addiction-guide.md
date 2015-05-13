@@ -1,6 +1,6 @@
 #Casino Guide
 
-###Gambling Addictions
+##Gambling Addictions
 
 Gambling addictions are a very serious issue and if you truly feel you suffer from
 a gambling addiction the following links may serve useful for you. 
