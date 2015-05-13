@@ -1,17 +1,16 @@
 # Casino Guide
 
-###Slot Machine Guide
+##Slot Machine Guide
 
-*Player Ownable*: Yes
+*Player Ownable*: **Yes**
 
-**Introduction**
+###Introduction
 The idea of slot machines are to simply bet and hope you match the correct images.
 
-**How To Play**
+###How To Play
 Place your bet and pull the handle.
 
-**Payouts**
-
+###Payouts
 |**Outcome** 		  |**Payout**  |
 |:------     		  |:------:    |
 |2 cherries(any order)    | 2x bet     |
@@ -23,12 +22,13 @@ Place your bet and pull the handle.
 |3 7's		          | 500x bet    |
 
 
-**Bet Range**
-*Min*: $100
-*Max*: Player Set(Default: $2,500)
+###Bet Range
+**Min**: $100
 
-**Other Info**
-Argubly one of the most expensive casinos to purchase in Bootleggers.
+**Max**: Player Set(Default: $2,500)
+
+###Other Info
+* Argubly one of the most expensive casinos to purchase in Bootleggers.
 
 ---
 [Back to casino guide](casino-main.md)
