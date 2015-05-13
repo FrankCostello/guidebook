@@ -8,7 +8,7 @@ Casinos play an enormous part in the bootleggers economy. Millions are won and l
 Before you begin your rise as a proficient gambler/casino owner or your downard 
 spiral as a gambling addict, the following links may be useful for you.
 
-* [Gambling Addictions](addictions.md)
+* [Gambling Addictions](addiction-guide.md)
 * [Cashier Guide](cashier-guide.md)
 * [Blackjack Guide](blackjack-guide.md)
 * [Keno Guide](keno-guide.md)
