@@ -1,16 +1,16 @@
 # Casino Guide
 
-###Slots Guide
+##RaceTrack Guide
 
-*Player Ownable*: Yes
+*Player Ownable*: **Yes**
 
-**Introduction**
+###Introduction
 The idea of the racetrack is to pick a horse you believe will win.
 
-**How To Play**
+###How To Play
 Pick your horse and place a bet. To change the horse simply select it.
 
-**Payouts**
+###Payouts
 
 |**Horse** |**Payout**|
 |:------   |:------: |
@@ -26,12 +26,13 @@ Pick your horse and place a bet. To change the horse simply select it.
 |Green  | 11x bet   |
 
 
-**Bet Range**
-*Min*: $1
-*Max*: Player Set(Default: $2,500)
+###Bet Range
+**Min**: $1  
+
+**Max**: Player Set(Default: $2,500)
 
 **Other Info**
-N/A
+*N/A*
 
 ---
 [Back to casino guide](casino-main.md)
