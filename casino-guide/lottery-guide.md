@@ -1,37 +1,38 @@
- # Casino Guide
+# Casino Guide
 
-###Slots Guide
+##Slots Guide
 
-*Player Ownable*: No
+*Player Ownable*: **No**
 
-**Introduction**
+###Introduction
 The idea of the lottery is simple, buy tickets and if your ticket numbers
 match with the one selected during the draw you win.
 
-**How To Play**
+###How To Play
 Each ticket costs $250. Buy tickets and if your ticket number is drawn you win 80% 
 of the pot.
 
-**Payouts**
+###Payouts
 
 |**Outcome** 		  |**Payout**  |
 |:------     		  |:------:    |
 |Win		          | 80% of pot |
 
-**Odds**
+###Odds
 
-The precentage of you winning is calculated by the following formula:
-(100 / (Total Amnt Of Tickets)) * (Amnt Of Tickets You Own)
+* The precentage of you winning is calculated by the following formula:
+  (100 / (Total Amnt Of Tickets)) * (Amnt Of Tickets You Own)
 
 Therefore, the more tickets you own compared to everyone else, the better
 your odds are of winning.
 
-**Bet Range**
-*Min*: $250
-*Max*: N/A
+###Bet Range
+**Min**: $250  
+
+**Max**: *N/A*
 
 **Other Info**
-N/A
+*N/A*
 
 ---
 [Back to casino guide](casino-main.md)
