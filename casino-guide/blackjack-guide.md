@@ -31,14 +31,15 @@ If you go over 21 the dealer will automatically win and vice versa.
 
 ###Odds
 * Depends on play style however no matter what it's less than
-50%
+**50%**
 
 ###Bet Range
-**Min**: $100
-**Max**: Player Set(Default: $2,500)
+**Min**: $100  
+
+**Max**: Player Set(Default: $2,500)  
 
 ###Other Info
-* All bets expire after 5 mins, *no refunds* are given.
+* All bets expire after 5 mins, **no refunds** are given.
 
 ---
 [Back to casino guide](casino-main.md)
