@@ -19,6 +19,3 @@ more details on that mission.
 * [Mission 12](mission-12.md)
 * [Mission 13](mission-13.md)
 * [Mission 14](mission-14.md)
-
----
-[Back to main menu](/guidebook/README.md)
