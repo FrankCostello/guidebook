@@ -4,6 +4,7 @@ This documentation is intended to help you play and understand the game of [Boot
 
 * [Mission Guide](mission-guide/missions.md)
 * [Booze Chart](booze-chart.csv)
+* [Abbreviations](abbreviations/main.md)
 
 ---
 
