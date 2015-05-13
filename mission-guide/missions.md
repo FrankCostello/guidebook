@@ -21,4 +21,4 @@ more details on that mission.
 * [Mission 14](mission-14.md)
 
 ---
-[Back to main menu](/master/README.md)
+[Back to main menu](/guidebook/README.md)
