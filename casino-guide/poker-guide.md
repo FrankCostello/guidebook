@@ -45,7 +45,7 @@ and Black is idle.
 
 * Each player has 60 seconds to make a move or else they will automatically fold.
 
-*Poker hands can be viewed [here](http://bootleggers.us/includes/pokerhands.php)
+* Poker hands can be viewed [here](http://bootleggers.us/includes/pokerhands.php)
 
 ---
 [Back to casino guide](casino-main.md)
