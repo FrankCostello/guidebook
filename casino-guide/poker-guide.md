@@ -40,8 +40,10 @@ each player can put into the game in total.
 
 * All games whether dealt or not are ended after 24 hours and no refund is issued.
 
-* The little dots next to names indicate player statuses, Green is online, Red is offline
-and Black is idle.
+* The little dots next to names indicate player statuses, 
+  * Green is online
+  * Red is offline
+  * Black is idle
 
 * Each player has 60 seconds to make a move or else they will automatically fold.
 
