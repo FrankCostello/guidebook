@@ -31,7 +31,7 @@ your odds are of winning.
 
 **Max**: *N/A*
 
-**Other Info**
+###Other Info
 *N/A*
 
 ---
