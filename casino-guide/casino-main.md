@@ -3,6 +3,7 @@
 ###Casino Guide Main Page
 
 **Introduction**
+
 Casinos play an enormous part in the bootleggers economy. Millions are won and lost every day on these casinos, often in the blink of an eye.
 
 Before you begin your rise as a proficient gambler/casino owner or your downard 
