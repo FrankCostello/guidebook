@@ -1,6 +1,6 @@
 # Casino Guide
 
-###Keno Guide
+##Keno Guide
 
 *Player Ownable*: **Yes**
 
