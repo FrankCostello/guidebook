@@ -7,7 +7,7 @@
 Casinos play an enormous part in the bootleggers economy. Millions are won and lost every day on these casinos, often in the blink of an eye.
 
 Before you begin your rise as a proficient gambler/casino owner or your downard 
-spiral as a gambling addict, the following links may be useful for you.
+spiral as a gambling addict, the following guides may serve useful for you.
 
 * [Gambling Addictions](addiction-guide.md)
 * [Cashier Guide](cashier-guide.md)
