@@ -1,6 +1,6 @@
 # Casino Guide
 
-##Slots Guide
+##Lottery Guide
 
 *Player Ownable*: **No**
 
