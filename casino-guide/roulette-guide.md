@@ -1,21 +1,21 @@
 # Casino Guide
 
-###Roulette Guide
+##Roulette Guide
 
-*Player Ownable*: Yes
+*Player Ownable*: **Yes**
 
-**Introduction**
+###Introduction
 The idea of roulette is to bet on numbers or spreads on the board. Each number or
 spread has different odds and payouts. There are 49 possible bets one can make.
 You can make multiple bets.
 
-**How To Play**
+###How To Play
 As stated above you can make multiple bets as long as all the bets together
 do not exceed the max bet set by the casino owner. You can place a bet on specific
 colours, rows, columns, numbers or a combination thereof. Once you place you bet, 
 spin the wheel. Depending on where the wheel lands will determine the payout, if any.
 
-**Payouts**
+###Payouts
 
 |**Outcomes** 		  |**Payout**  |
 |:------     		  |:------:    |
@@ -30,7 +30,7 @@ spin the wheel. Depending on where the wheel lands will determine the payout, if
 |Street 		  | 12x bet |
 |Double Street 		  | 6x bet |
 
-**Odds**
+###Odds 
 |**Outcomes**|**Odds Against Winning**  |
 |:------     |:-------------------:     |
 |0 to 36     | 36 to 1    |
@@ -51,22 +51,22 @@ spin the wheel. Depending on where the wheel lands will determine the payout, if
 |Street      |  33 to 3   |
 |Double Street |  31 to 6 |
 
-**Bet Range**
-*Min*: $1
-*Max*: Player Set(Default: $2,500)
+###Bet Range
+**Min**: $1
 
-**Other Info**
+**Max**: Player Set(Default: $2,500)
 
-*You require chips in order to play. To learn more about chips visit the
+###Other Info
+* You require chips in order to play. To learn more about chips visit the
 [Cashier](cashier-guide.md) page. 
 
-*When won or purchased you are given a 5 minute grace period in order to deposit
+* When won or purchased you are given a *5* minute grace period in order to deposit
 chips before other players can play on it.
 
-*If you transfer a roulette to another player all the money within it is 
-taken out upon completing the Escrow.
+* If you transfer a roulette to another player all the money within it is 
+taken out upon completing the *Escrow*.
 
-*No more than *25* chips can be placed on any one spot.
+* No more than *25* chips can be placed on any one spot.
 
 ---
 [Back to casino guide](casino-main.md)
