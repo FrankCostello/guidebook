@@ -5,27 +5,29 @@
 Gambling addictions are a very serious issue and if you truly feel you suffer from
 a gambling addiction the following links may serve useful for you. 
 
-[American Resource](http://www.ncpgambling.org/)
-[Canadian Resource](https://www.problemgambling.ca/EN/WebSiteLinks/Pages/CanadianResources.aspx)
-[British Resource](http://www.gamcare.org.uk/)
-[Overall help guide](http://www.helpguide.org/articles/addiction/gambling-addiction-and-problem-gambling.htm)
+* [American Resource](http://www.ncpgambling.org/)
+* [Canadian Resource](https://www.problemgambling.ca/EN/WebSiteLinks/Pages/CanadianResources.aspx)
+* [British Resource](http://www.gamcare.org.uk/)
+* [Overall help guide](http://www.helpguide.org/articles/addiction/gambling-addiction-and-problem-gambling.htm)
 
 That being said if you don't feel that your addiction is that severe but are looking
 for ways to cut down some of the following tips may help you before you are spending
 several real world dollars on fake cash, begging for money and/or resorting to doing
 shady oc's with a starpegasus just to make a little extra money to continue gambling.
 
-*Consider converting all your cash aside a little bit for OC's into gold.
+Consider:
 
-*Consider giving it away in contests and games.
+* Converting all your cash aside a little bit for OC's into gold.
 
-*Consider storing it away in a swiss bank
+* Giving it away in contests and games.
 
-*Consider donating it to your crew
+* Storing it away in a swiss bank
 
-*Consider donating it into a contest/game.
+* Donating it to your crew
 
-*Consider blocking the casino pages to prevent you from accessing them, this can be done
+* Donating it into a contest/game.
+
+* Blocking the casino pages to prevent you from accessing them, this can be done
 in several ways including using tools or editing your hosts file all of which can be
 easily found on google.
 
