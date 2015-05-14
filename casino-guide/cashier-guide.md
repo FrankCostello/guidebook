@@ -13,7 +13,9 @@
 * There is a *5%* fee on withdrawing your chips.
 
 ###Chip-based Wealth Statuses
+
 |**Status** | **Range**|
+|:-------   | :---------------:
 |Bankrupt   | $0-$14,999 |
 |Small Time  | $15,000-$249,999 |
 |Fledgling Venture   | $250,000-$999,999 |
